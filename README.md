@@ -1,4 +1,4 @@
-# GameHub
+# Game Hub
 
 GameHub is a React web application built with Vite and TypeScript. It provides a platform for discovering and exploring games across various platforms. The application utilizes Chakra UI for design, Axios for API requests, and relies on the RAWG.io API for game data.
 
