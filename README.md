@@ -33,7 +33,7 @@ npm install
 4. Create a `.env` file in the root directory and provide your RAWG.io API key. You can obtain an API key by signing up at [RAWG.io](https://rawg.io/apidocs).
 
 ```
-REACT_APP_RAWG_API_KEY=your-api-key
+VITE_REACT_API_KEY=your-api-key
 ```
 
 ## Usage
